@@ -1,7 +1,7 @@
 d = {
-    'name': 'Digambar',
+    'name': 'Sahil',
     'age': 20,
-    'city': 'Ajara'
+    'city': 'Chandgad'
 }
 
 print(d)
